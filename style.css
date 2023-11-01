@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: #9ab3f5;
+    margin: 50px;
+    text-align: justify;
+  }
+  h1 {
+    text-align: center;
+    padding: 20px;
+  }
+  #description::first-letter {
+    font-size: 300%;
+  }
+  .imageDesription {
+    margin: 0 0 0 30px;
+  }
+  img {
+    width: 200px;
+    /* Add necessary property if required */
+  }
+  .inner-top {
+    /* Add necessary property if required */
+    float: right;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  #clear {
+    /* Add necessary property if required */
+    clear: right;
+  }
